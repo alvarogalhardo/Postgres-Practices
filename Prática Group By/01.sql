@@ -1,0 +1,1 @@
+SELECT COUNT(experiences) AS "currentExperiences" FROM experiences;
